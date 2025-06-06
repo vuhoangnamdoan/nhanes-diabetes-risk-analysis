@@ -216,9 +216,20 @@ This analysis contributes to understanding:
 ## Contributing
 
 This is an academic project for SIT220 Data Wrangling. For questions or suggestions:
-- **Student**: Vu Hoang Nam Doan
-- **Student ID**: s224021565
-- **Institution**: Deakin University
+- Student Name: **Vu Hoang Nam Doan**
+- Student Number: s224021565
+- Outlook: s224021565@deakin.edu.au
+- Email: vuhoangnamdoan1605@gmail.com
+- LinkedIn: [Vu Hoang Nam Doan](https://www.linkedin.com/in/vuhoangnamdoan/)
+- Course: S379 - Bachelor of Data Science
+
+However, suggestions for improvements are welcome:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/improvement`)
+3. Commit changes (`git commit -am 'Add improvement'`)
+4. Push to branch (`git push origin feature/improvement`)
+5. Create a Pull Request
 
 ## License
 
@@ -233,4 +244,4 @@ This project is submitted for academic evaluation at Deakin University. Data sou
 
 ---
 
-**Note**: This project demonstrates advanced data wrangling techniques as part of the SIT220 curriculum, showcasing real-world application of data science methods to public health research.
+*This project demonstrates advanced data wrangling techniques as part of the SIT220 curriculum, showcasing real-world application of data science methods to public health research.*
