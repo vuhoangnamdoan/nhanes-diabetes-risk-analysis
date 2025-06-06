@@ -1,9 +1,24 @@
 # NHANES Diabetes Risk Analysis: Interactive Health Data Exploration
 
-**SIT220 Data Wrangling - Final Project**  
-**Student:** Vu Hoang Nam Doan  
-**Student ID:** s224021565  
-**Deakin University**
+A comprehensive data analysis project exploring the National Health and Nutrition Examination Survey (NHANES) 2021-2023 data to identify key health patterns and socioeconomic disparities in diabetes prevalence.
+
+## Contributing
+
+This is an academic project for SIT220 Data Wrangling. For questions or suggestions:
+- Student Name: **Vu Hoang Nam Doan**
+- Student Number: s224021565
+- Outlook: s224021565@deakin.edu.au
+- Email: vuhoangnamdoan1605@gmail.com
+- LinkedIn: [Vu Hoang Nam Doan](https://www.linkedin.com/in/vuhoangnamdoan/)
+- Course: S379 - Bachelor of Data Science
+
+However, suggestions for improvements are welcome:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/improvement`)
+3. Commit changes (`git commit -am 'Add improvement'`)
+4. Push to branch (`git push origin feature/improvement`)
+5. Create a Pull Request
 
 ## Project Overview
 
@@ -212,24 +227,6 @@ This analysis contributes to understanding:
 - **Health Equity**: Socioeconomic health disparities
 - **Data Science**: Advanced wrangling techniques
 - **Policy Implications**: Evidence-based health interventions
-
-## Contributing
-
-This is an academic project for SIT220 Data Wrangling. For questions or suggestions:
-- Student Name: **Vu Hoang Nam Doan**
-- Student Number: s224021565
-- Outlook: s224021565@deakin.edu.au
-- Email: vuhoangnamdoan1605@gmail.com
-- LinkedIn: [Vu Hoang Nam Doan](https://www.linkedin.com/in/vuhoangnamdoan/)
-- Course: S379 - Bachelor of Data Science
-
-However, suggestions for improvements are welcome:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/improvement`)
-3. Commit changes (`git commit -am 'Add improvement'`)
-4. Push to branch (`git push origin feature/improvement`)
-5. Create a Pull Request
 
 ## License
 
